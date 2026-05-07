@@ -1,4 +1,6 @@
-a=[1,2,3,4,5]
+a=[1,2,3,4,5] #list
+b=(1,2,3,4,5) # tuple
+
 
 # list sclicing
 # print(a[0:3]) #prints the items from the specified index to the end of the list
